@@ -9,3 +9,6 @@ I love taking on challenges, working on open-source projects, and contributing t
 
 📬 Contact me:
 - Email: <a href="mailto:wgwiktorwg@gmail.com">wgwiktorwg@gmail.com</a>
+
+<!-- tracking views count-->
+![](https://spring-boot-tracker-935c708a9d3f.herokuapp.com/api/view?name=github_profile)
