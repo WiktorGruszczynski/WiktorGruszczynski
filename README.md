@@ -1,4 +1,4 @@
-## Hi there 👋 I'm an ambitious programmer, passionate about learning and building innovative solutions
+## Hi there 👋
 
 I love taking on challenges, working on open-source projects, and contributing to the developer community. Check out my repositories or feel free to collaborate!
 
