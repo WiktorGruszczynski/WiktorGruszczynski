@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I love taking on challenges, working on open-source projects, and contributing to the developer community. Check out my repositories or feel free to collaborate!
+I am ambitious student who enjoyes programming in his free time and keeps tracking latest tech trends. I love taking on challenges, working on open-source projects, and contributing to the developer community. Check out my repositories or feel free to collaborate!
 
 💻 Tech enthusiast with a focus on:
 
