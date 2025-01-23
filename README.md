@@ -1,14 +1,22 @@
 ## Hi there 👋
 
-I am ambitious student who enjoyes programming in his free time and keeps tracking latest tech trends. I love taking on challenges, working on open-source projects, and contributing to the developer community. Check out my repositories or feel free to collaborate!
+I am just a cybersecurity student who enjoyes programming from time to time
 
-💻 Tech enthusiast with a focus on:
+## Stack
 
-  - Backend: `Java`, `Spring Boot`, `postgreSQL`
-  - Frontend: `React`, `Angular`
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/hibernate/hibernate-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" width="36px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" width="36px">
+</div>
 
-📬 Contact me:
-- Email: <a href="mailto:wgwiktorwg@gmail.com">wgwiktorwg@gmail.com</a>
 
-<!-- tracking views count-->
-![](https://spring-boot-tracker-935c708a9d3f.herokuapp.com/api/view?name=github_profile)
