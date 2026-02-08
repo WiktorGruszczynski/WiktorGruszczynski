@@ -15,10 +15,15 @@
 
 ### 📫 Contact
 - **LinkedIn**: [linkedin.com/in/WiktorGruszczynski](https://www.linkedin.com/in/wiktor-gruszczyński-70233630b/)
-- **Email**: [gruszczynskiwiktor04@gmail.com](mailto:wgwiktorwg@gmail.com)
+- **Email**: [wgwiktorwg@gmail.com](mailto:wgwiktorwg@gmail.com)
 
 ---
+### 📊 Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiktorGruszczynski&show_icons=true&theme=radical" alt="Wiktor's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WiktorGruszczynski&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="Wiktor's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiktorGruszczynski&layout=compact&theme=transparent&border_radius=10" alt="Top Languages" />
 </p>
