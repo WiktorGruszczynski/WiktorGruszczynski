@@ -1,5 +1,5 @@
 # Hi there, I'm Wiktor! 👋
-### 🛡️ Cybersecurity Student @ PWr | 💻 Fullstack Developer @ Solvro
+### 🛡️ Cybersecurity Student @ PWr | 💻 Software Engineer @ Solvro
 
 ---
 
