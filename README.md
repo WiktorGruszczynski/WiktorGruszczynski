@@ -13,17 +13,15 @@
 
 ---
 
-### 📫 Contact
-- **LinkedIn**: [linkedin.com/in/WiktorGruszczynski](https://www.linkedin.com/in/wiktor-gruszczyński-70233630b/)
-- **Email**: [wgwiktorwg@gmail.com](mailto:wgwiktorwg@gmail.com)
-
----
-
-
-
 ### 📊 My Activity
+
 
 <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiktorGruszczynski&theme=react" alt="GitHub Streak" />
 </p>
 
+### 📫 Contact
+- **LinkedIn**: [linkedin.com/in/WiktorGruszczynski](https://www.linkedin.com/in/wiktor-gruszczyński-70233630b/)
+- **Email**: [wgwiktorwg@gmail.com](mailto:wgwiktorwg@gmail.com)
+
+---
