@@ -20,12 +20,10 @@
 ---
 
 
+
 ### 📊 My Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiktorGruszczynski&theme=radical" alt="GitHub Streak" />
+<p >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiktorGruszczynski&theme=react" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WiktorGruszczynski&layout=compact&theme=radical" alt="Top Languages" />
-</p>
