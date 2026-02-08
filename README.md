@@ -21,7 +21,7 @@
 </p>
 
 ### 📫 Contact
-- **LinkedIn**: [linkedin.com/in/WiktorGruszczynski](https://www.linkedin.com/in/wiktor-gruszczyński-70233630b/)
+- **LinkedIn**: [linkedin/](https://www.linkedin.com/in/wiktor-gruszczy%C5%84ski-738429333/)
 - **Email**: [wgwiktorwg@gmail.com](mailto:wgwiktorwg@gmail.com)
 
 ---
