@@ -15,10 +15,8 @@
 
 ### 📊 My Activity
 
-
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiktorGruszczynski&theme=react" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WiktorGruszczynski&layout=compact&theme=react" height="170px" />
+    
 
 ### 📫 Contact
 - **LinkedIn**: [linkedin/](https://www.linkedin.com/in/wiktor-gruszczy%C5%84ski-738429333/)
