@@ -26,6 +26,6 @@
 - **LinkedIn**: [wiktor-gruszczyński](https://www.linkedin.com/in/wiktor-gruszczyński-738429333/)
 - **Email**: [wgwiktorwg@gmail.com](mailto:wgwiktorwg@gmail.com)
 
-<!-- Counting views on profile -->
-<img src="https://view-statistics.vercel.app/api/profile" alt="" style="display: none;">
+
+
 
