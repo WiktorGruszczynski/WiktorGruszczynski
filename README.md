@@ -27,6 +27,4 @@
 - **Email**: [wgwiktorwg@gmail.com](mailto:wgwiktorwg@gmail.com)
 
 <!-- Counting views on profile -->
-<div style="position:relative; height:0; overflow:hidden;">
-  <img src="https://view-statistics.vercel.app/api/profile" alt="" width="1" height="1" style="opacity:0; position:absolute; pointer-events:none;">
-</div>
+
