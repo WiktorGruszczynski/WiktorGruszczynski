@@ -1,6 +1,6 @@
 # Hi there, I'm Wiktor! 👋
 
-### 💻 Full-Stack Developer | Cybersecurity Student
+### 💻 Software Engineer | Cybersecurity Student
 
 ---
 
