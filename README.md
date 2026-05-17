@@ -1,6 +1,8 @@
 # Hi there, I'm Wiktor! 👋
 
-### 💻 Software Engineer | Cybersecurity Student
+### 💻 Software Engineer
+
+Junior software engineer focused on backend development with Java and Spring Boot. I build full-stack web applications and am currently deepening my knowledge in cybersecurity. Studying at Wrocław University of Science and Technology, where I also contribute to open source projects through KN Solvro
 
 ---
 
@@ -14,17 +16,10 @@
 
 ---
 
-### 🚀 Projects
-
-- **[TaxRobot](https://github.com/WiktorGruszczynski/TaxRobotNew)** — Full-stack automation tool (Spring Boot + Vaadin) built for an employer to streamline tax data processing
-- **[Testownik](https://github.com/Solvro/backend-testownik)** — University-wide learning platform built with Django @ KN Solvro
-
----
-
 ### 📫 Contact
 
-- **LinkedIn**: [wiktor-gruszczyński](https://www.linkedin.com/in/wiktor-gruszczyński-738429333/)
-- **Email**: [wgwiktorwg@gmail.com](mailto:wgwiktorwg@gmail.com)
+- **[Email](mailto:wgwiktorwg@gmail.com)**
+- **[Linkedin](https://www.linkedin.com/in/wiktor-gruszczyński-738429333/)**
 
 
 
